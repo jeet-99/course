@@ -1,2 +1,2 @@
 # course
-I editing the README file. Adding some more details about the project d.
+I iting the README file. Adding some more details about the project d.
